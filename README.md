@@ -1,15 +1,18 @@
-# SMART Network Token Project
+# SMART Network Project
 
 ## 🚀 Introduction
-Welcome to the **SMART Network Token (SNET)** project! We are building a Solana-based cryptocurrency token with a vision to create a decentralized, efficient, and scalable network. Your support will help us make this project a reality. 
+Welcome to the **SMART Network** project! We are building a Solana-based cryptocurrency token with a vision to create a decentralized, efficient, and scalable network. Your support will help us make this project a reality. 
+
+**Token Name**: SMART Network  
+**Token Symbol**: SNET
 
 ## 💡 Project Goals
-- **Launch SMART Network Token (SNET)** on the **Solana blockchain**.
+- **Launch SMART Network** on the **Solana blockchain**.
 - **Create a decentralized ecosystem** that empowers users and fosters innovation.
 - **Build a community** that values transparency, security, and scalability.
 
 ## 🌟 Support the Project
-If you'd like to support the development of **SMART Network Token (SNET)**, you can send donations to my Solana wallet:
+If you'd like to support the development of **SMART Network**, you can send donations to my Solana wallet:
 
 **Solana Wallet Address**:  
 `DcjbR978E3P4WmrRB6jHFZekAp1UgP5W35yP7W1Kd3p5`
@@ -27,12 +30,12 @@ Thank you for being part of this journey!
 3. **Join the Community**: Follow updates and engage with us as we progress with development.
 
 ## 🔧 Project Development
-This project is in the early stages of development. We plan to launch the **SMART Network Token (SNET)** on the Solana blockchain and develop the ecosystem around it.
+This project is in the early stages of development. We plan to launch the **SMART Network** on the Solana blockchain and develop the ecosystem around it.
 
 ---
 
 ### 🚀 Roadmap
-1. **Phase 1**: Build and deploy SMART Network Token (SNET) on Solana.
+1. **Phase 1**: Build and deploy SMART Network on Solana.
 2. **Phase 2**: Create decentralized applications (dApps) that utilize the token.
 3. **Phase 3**: Launch token on DEX (PancakeSwap, Solana-based exchanges).
 4. **Phase 4**: Community growth and partnerships.
@@ -48,8 +51,8 @@ This project is in the early stages of development. We plan to launch the **SMAR
 ---
 
 ## 💬 Disclaimer
-This is a **community-driven project**, and all donations go towards the development, launch, and growth of the **SMART Network Token (SNET)**. Contributions are voluntary and made at your own risk.
+This is a **community-driven project**, and all donations go towards the development, launch, and growth of the **SMART Network**. Contributions are voluntary and made at your own risk.
 
 ---
 
-Thank you for your support, and together, we'll create a **SMART Network Token (SNET)** that benefits everyone!
+Thank you for your support, and together, we'll create a **SMART Network** (SNET) that benefits everyone!
