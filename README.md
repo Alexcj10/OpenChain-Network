@@ -1,30 +1,30 @@
 # SMART Network Project
 
 ## 🚀 Introduction
-Welcome to the **SMART Network** project, a **Solana-based decentralized cryptocurrency ecosystem**. The **SMART Network (SNET)** token is built with a vision to create a **high-performance, scalable, and interoperable blockchain ecosystem**. Our goal is to provide users with a seamless and cost-efficient blockchain experience while leveraging the power of the **ERC-20 token standard** and **Solana's blockchain** capabilities.
+Welcome to the **SMART Network** project, a **Binance Smart Chain-based decentralized cryptocurrency ecosystem**. The **SMART Network (SNET)** token is built with a vision to create a **high-performance, scalable, and interoperable blockchain ecosystem**. Our goal is to provide users with a seamless and cost-efficient blockchain experience while leveraging the power of the **ERC-20 token standard** and **Binance Smart Chain's capabilities**.
 
 The project is community-driven, and your participation will help us shape the future of decentralized finance (DeFi) and blockchain-based applications.
 
 **Token Name**: SMART Network  
 **Token Symbol**: SNET  
-**Blockchain**: Solana  
+**Blockchain**: Binance Smart Chain (BSC)  
 **Token Standard**: ERC-20  
 
 ## 🔍 Overview of SMART Network (SNET)
-The **SMART Network (SNET)** token will operate as the native asset for a decentralized ecosystem built on the **Solana blockchain**. By adopting the **ERC-20** token standard, we are ensuring that **SNET** will be easily interoperable with various wallets, decentralized exchanges (DEXs), and smart contracts across the crypto space.
+The **SMART Network (SNET)** token will operate as the native asset for a decentralized ecosystem built on the **Binance Smart Chain (BSC)**. By adopting the **ERC-20** token standard, we are ensuring that **SNET** will be easily interoperable with various wallets, decentralized exchanges (DEXs), and smart contracts across the crypto space.
 
 ### Problem Solved by SMART Network (SNET)
 The **SNET** token aims to address several fundamental challenges in the blockchain ecosystem:
-1. **High Transaction Fees**: Many blockchain networks suffer from high gas fees, making transactions expensive, especially during periods of network congestion. **SMART Network** utilizes **Solana's high throughput and low transaction costs**, enabling a more affordable blockchain experience.
-2. **Lack of Interoperability**: Most blockchain ecosystems are isolated, limiting the ability of users and developers to interact with applications across different chains. By adhering to the **ERC-20 token standard**, **SNET** will be compatible with Ethereum-based dApps and platforms while utilizing the speed and low fees of Solana.
+1. **High Transaction Fees**: Many blockchain networks suffer from high gas fees, making transactions expensive, especially during periods of network congestion. **SMART Network** utilizes **Binance Smart Chain's low transaction costs**, enabling a more affordable blockchain experience.
+2. **Lack of Interoperability**: Most blockchain ecosystems are isolated, limiting the ability of users and developers to interact with applications across different chains. By adhering to the **ERC-20 token standard**, **SNET** will be compatible with Ethereum-based dApps and platforms while utilizing the speed and low fees of BSC.
 3. **Centralization in Governance**: Centralized decision-making processes are a common issue in many blockchain projects, where a small group of stakeholders holds power. **SNET** will feature **community-driven governance**, allowing token holders to propose and vote on important protocol changes.
 
 ## 💡 Why SMART Network (SNET)?
 The **SMART Network** ecosystem is designed with the following goals in mind:
-- **Scalability**: By utilizing Solana's **Proof of History (PoH)** and **Proof of Stake (PoS)** consensus mechanisms, **SNET** can support a high number of transactions per second (TPS) while maintaining low transaction costs.
+- **Scalability**: By utilizing BSC’s **Delegated Proof of Stake (DPoS)** consensus mechanism, **SNET** can support a high number of transactions per second (TPS) while maintaining low transaction costs.
 - **Decentralization**: **SMART Network** leverages a decentralized governance structure, where token holders have the power to propose and vote on network upgrades, making the ecosystem truly community-driven.
 - **Interoperability**: By using the **ERC-20** standard, **SNET** ensures compatibility with **Ethereum-based decentralized applications (dApps)**, wallets, and exchanges, making it accessible across multiple blockchain ecosystems.
-- **Security**: Solana's blockchain provides robust security measures through its decentralized nodes and cryptographic consensus mechanisms. This ensures the safety and integrity of **SNET**'s transactions.
+- **Security**: Binance Smart Chain's blockchain provides robust security measures through its decentralized nodes and cryptographic consensus mechanisms. This ensures the safety and integrity of **SNET**'s transactions.
 
 ## 🛠️ Key Features of SMART Network (SNET)
 - **Tokenomics**:
@@ -36,11 +36,11 @@ The **SMART Network** ecosystem is designed with the following goals in mind:
 - **Ecosystem Use Cases**:
   - **Staking and Yield Farming**: Users can stake **SNET** tokens in liquidity pools and earn rewards through staking and yield farming protocols.
   - **Decentralized Applications (dApps)**: **SNET** will serve as the native currency for various dApps that we will develop and deploy on the **SMART Network** ecosystem. These dApps could range from DeFi platforms, NFT marketplaces, decentralized governance platforms, and more.
-  - **Cross-Chain Interoperability**: With the **ERC-20** token standard, **SNET** will be compatible with Ethereum-based dApps, expanding its usability beyond Solana.
+  - **Cross-Chain Interoperability**: With the **ERC-20** token standard, **SNET** will be compatible with Ethereum-based dApps, expanding its usability beyond BSC.
 
 ## 🚀 Roadmap
 ### Phase 1: **Initial Token Development and Deployment**
-- **ERC-20 Token Deployment**: Develop the **SMART Network (SNET)** token following the **ERC-20 token standard** on the **Solana blockchain**.
+- **ERC-20 Token Deployment**: Develop the **SMART Network (SNET)** token following the **ERC-20 token standard** on the **Binance Smart Chain**.
 - **Smart Contract Audits**: Conduct audits to ensure the security and efficiency of the token contracts before deployment.
   
 ### Phase 2: **Community Building and Governance Framework**
@@ -63,10 +63,10 @@ The **SMART Network** ecosystem is designed with the following goals in mind:
 
 ## 💡 How You Can Help
 You can support the **SMART Network** project in the following ways:
-1. **Donate**: Contributions help fund token development, audits, smart contract deployments, and community-building efforts. Send donations directly to the **Solana wallet address**:
+1. **Donate**: Contributions help fund token development, audits, smart contract deployments, and community-building efforts. Send donations directly to the **BSC wallet address**:
    
-   **Solana Wallet Address**:  
-   `DcjbR978E3P4WmrRB6jHFZekAp1UgP5W35yP7W1Kd3p5`
+   **BSC Wallet Address**:  
+   `0xF314F051341D311bAc7D9E29377772eBc577Ecfa`
 
 2. **Spread the Word**: Share the project with your friends, family, and community through social media platforms such as Twitter, Discord, and Telegram.
 3. **Join the Community**: Participate in the community discussions and become an active member. Stay updated with our progress and contribute to the development process.
